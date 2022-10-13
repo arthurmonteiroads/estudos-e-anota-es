@@ -1,2 +1,2 @@
-# estudos-e-anota-es
+# estudos-e-anotações
 conteúdo bootcamp DIO
